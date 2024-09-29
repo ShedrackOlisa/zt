@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROM Game Download Hub</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+   </head>
+<body>
+
+    
+
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="https://ziphytech.com.ng/images/ziphytech-name-logo.webp" alt="ROM Hub Logo">
+            </div>
+            <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Games</a></li>
+            <li><a href="#">Apps</a></li>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="hamburger-menu" id="hamburger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <div class="overlay" id="overlay">
+        <div class="close-btn" id="close-btn">X</div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Games</a></li>
+            <li><a href="#">Apps</a></li>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+    
+
+<!-- Main Content -->
+<main class="article-container">
+    <article>
+        <h1>Latest Game Release: Cyber Heroes</h1>
+        <img src="https://ziphynet.com.ng/images/gta-san-ram-gta-5.webp" alt="Cyber Heroes" class="article-hero-image">
+        <p class="article-date">Released on: September 19, 2024</p>
+        <p class="article-description">Cyber Heroes is the most awaited game of the year with stunning graphics and a captivating storyline. Here’s everything you need to know before downloading it.</p>
+
+        <h2>Gameplay Overview</h2>
+        <p>The game features a futuristic world where players take on the role of cyber-enhanced soldiers. The open-world experience allows players to explore a vast city while completing challenging missions and unlocking unique abilities.</p>
+
+        <h2>Minimum System Requirements</h2>
+        <ul class="requirements">
+            <li>OS: Windows 10 64-bit</li>
+            <li>Processor: Intel Core i5-8400 / AMD Ryzen 5 1600</li>
+            <li>Memory: 8 GB RAM</li>
+            <li>Graphics: NVIDIA GTX 1060 / AMD Radeon RX 580</li>
+            <li>DirectX: Version 12</li>
+            <li>Storage: 50 GB available space</li>
+        </ul>
+
+        <h2>Download Links</h2>
+        <a href="#" class="download-btn">Download for Windows</a>
+        <a href="#" class="download-btn">Download for Mac</a>
+    </article>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+
+        <div id="logo-ct"><img src="https://ziphynet.com.ng/images/ziphynet-logo.webp" alt="ZiphyNet Logo">
+
+            <p><strong><a href="https://ziphynet.com.ng/">View More Games</a></strong></p>
+            
+            </div>
+            
+            <div class="button-container">
+                <div class="row">
+                    <button class="dynamic-button bigger"><a href="https://whatsapp.com/channel/0029VaXB0b90LKZCIoC39210"><img src="https://ziphynet.com.ng/images/whatsapp-j.webp" alt="WhatsApp button"></a></button>
+                </div>
+                <div class="row">
+                    <button class="dynamic-button bigger"><a href="https://t.me/ziphyweb/"><img src="https://ziphynet.com.ng/images/telegram-j.webp" alt="Telegram button"></a></button>
+                </div><br>
+
+
+                <aside class="sidebar">
+                    <h3>Popular Downloads</h3>
+                    <ul id="popular-downloads-list">
+                        <!-- Popular downloads will be dynamically injected here -->
+                    </ul>
+                
+                    <!-- Pagination Controls -->
+                    <div id="pagination-controls">
+                        <!-- Pagination buttons (Previous, Next) will be dynamically injected here -->
+                    </div>
+                </aside>
+                
+                
+
+</main>
+
+<footer class="footer">
+    <div class="footer-links">
+        <a href="#">Home</a>
+        <a href="#">Games</a>
+        <a href="#">Apps</a>
+        <a href="#">Privacy</a>
+        <a href="#">Contact</a>
+    </div>
+    <div class="social-icons">
+        <h3 style="color: #fff;">Follow Us</h3>
+        <a href="https://www.facebook.com/profile.php?id=61550752782084" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://whatsapp.com/channel/0029Va9fPU89Bb5rps8okZ1A" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://www.youtube.com/@Olitechgames" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="https://www.instagram.com/olisashedi?igsh=MXBma3Z3dGtldHo5aQ==" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.tiktok.com/@olisaozor?_t=8pwiYqMriq5&_r=1" target="_blank"><i class="fab fa-tiktok"></i></a>
+        <a href="https://t.me/ziphyweb/" target="_blank"><i class="fab fa-telegram"></i></a>
+    </div>
+    <div class="copyright"><br>
+      ZiphyTech  © Copyright 2024, All Rights Reserved.
+    </div>
+
+</footer>
+
+
+<script src="games.js"></script>
+
+
+    <script>
+        document.getElementById('hamburger-menu').addEventListener('click', function() {
+    document.getElementById('overlay').style.display = 'flex';
+});
+
+document.getElementById('close-btn').addEventListener('click', function() {
+    document.getElementById('overlay').style.display = 'none';
+});
+
+
+
+document.getElementById('hamburger').addEventListener('click', function() {
+    document.getElementById('nav').classList.toggle('active');
+});
+
+    </script>
+</body>
+</html>
