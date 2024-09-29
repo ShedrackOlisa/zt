@@ -261,6 +261,10 @@ footer {
   nav.active ul {
       display: flex;
   }
+
+  .sidebar ul li img {
+max-width: 130px;
+  }
 }
 
 
