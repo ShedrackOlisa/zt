@@ -152,7 +152,7 @@ nav ul li a:hover {
 .article-container article {
   flex: 0.7;
   background-color: white;
-  padding: 20px;
+  padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
@@ -195,7 +195,7 @@ nav ul li a:hover {
 .sidebar {
   flex: 0.25;
   background-color: white;
-  padding: 20px;
+  padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   height: auto;
@@ -263,7 +263,11 @@ footer {
   }
 
   .sidebar ul li img {
-max-width: 130px;
+max-width: 140px;
+  }
+
+  .article-container {
+padding: 10px;
   }
 }
 
