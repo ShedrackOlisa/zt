@@ -202,6 +202,15 @@ nav ul {
   @media (max-width: 768px) {
       .services-grid {
           grid-template-columns: repeat(2, 1fr);
+          gap: 10px;
+      }
+
+      .services-section {
+        padding: 50px 10px;
+      }
+
+      .service-box {
+       padding: 10px;
       }
   }
   
