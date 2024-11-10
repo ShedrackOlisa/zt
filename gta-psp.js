@@ -88,3 +88,7 @@ function updatePaginationControls() {
 
 // Call the function when the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', renderPopularDownloads);
+
+document.getElementById("pagination-controls").addEventListener("click", function() {
+    window.location.href = "https://ziphytech.com.ng/games";
+  });

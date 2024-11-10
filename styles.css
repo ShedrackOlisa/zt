@@ -368,3 +368,30 @@ height: auto;
           text-decoration: none;
           margin-top: 20px;
       }
+
+
+
+
+
+    #pagination-controls{
+      text-align: center;
+      cursor: pointer;
+    }
+
+
+
+      #pagination-controls:before {
+        content: "View More...";
+        display: inline-block;
+        background-color: #ff4757;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        margin: 10px 0;
+      }
+      
+      #pagination-controls:hover:before {
+        background-color: #ff6b81;
+      }
+      

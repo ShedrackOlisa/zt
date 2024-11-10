@@ -25,7 +25,32 @@ const allGames = [
         title: "PES 2025 PPSSPP ISO (PES 25 PSP) Download For Android - eFootball",
         link: "https://ziphytech.com.ng/ppsspp-pes-2025"
     },
-   
+    {
+        imgSrc: "https://ziphynet.com.ng/images/dfl-2025.webp",
+        title: "DFL 2025 Mod FIFA 16 Apk Obb Data Download For Android",
+        link: "https://ziphynet.com.ng/dfl-2025"
+    },
+    {
+        imgSrc: "https://ziphynet.com.ng/images/dls-2025.webp",
+        title: "Dream League Soccer 2025 (DLS 25) APK OBB Download For Android",
+        link: "https://ziphynet.com.ng/dls-2025"
+    },
+    {
+        imgSrc: "https://ziphynet.com.ng/images/eafc-mobile-2025.webp",
+        title: "EA SPORTS FC Mobile 25 APK OBB DATA Offline Download For Android",
+        link: "https://ziphynet.com.ng/eafc-mobile-2025"
+    },
+    {
+        imgSrc: "https://ziphynet.com.ng/images/efootball-pes-2025.webp",
+        title: "eFootball PES 2025 APK OBB Download for Android",
+        link: "https://ziphynet.com.ng/efootball-pes-2025"
+    },
+    {
+        imgSrc: "https://ziphynet.com.ng/images/winning-eleven-2025.webp",
+        title: "Winning Eleven 2025 APK Download For Android",
+        link: "https://ziphynet.com.ng/winning-eleven-2025"
+    },
+
     // Add more games as needed...
 ];
 
@@ -87,3 +112,7 @@ function updatePaginationControls() {
 
 // Call the function when the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', renderPopularDownloads);
+
+document.getElementById("pagination-controls").addEventListener("click", function() {
+    window.location.href = "https://ziphytech.com.ng/games";
+  });
