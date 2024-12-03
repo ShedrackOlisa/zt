@@ -1,29 +1,29 @@
 // Array of all available games (add as many games as needed)
 const allGames = [
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-4-psp.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-4-psp.webp",
         title: "GTA 4 PPSSPP ISO Zip File Download For Android (GTA IV)",
-        link: "https://ziphynet.com.ng/gta-4-psp"
+        link: "https://ziphytech.com.ng/gta-4-psp"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-5-psp.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-5-psp.webp",
         title: "GTA 5 PPSSPP ISO Zip File Download For Android (GTA V)",
-        link: "https://ziphynet.com.ng/gta-5-psp"
+        link: "https://ziphytech.com.ng/gta-5-psp"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-liberty-city-psp.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-liberty-city-psp.webp",
         title: "GTA Liberty City Stories PPSSPP ISO Zip File Download Highly Compressed For Android",
-        link: "https://ziphynet.com.ng/gta-liberty-city-psp"
+        link: "https://ziphytech.com.ng/gta-liberty-city-psp"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-san-psp.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-san-psp.webp",
         title: "GTA San Andreas PPSSPP ISO Zip File Download For Android (GTA SA)",
-        link: "https://ziphynet.com.ng/gta-san-psp"
+        link: "https://ziphytech.com.ng/gta-san-psp"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-vice-city-psp.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-vice-city-psp.webp",
         title: "GTA Vice City Stories PPSSPP ISO Zip File Download For Android",
-        link: "https://ziphynet.com.ng/gta-vice-city-psp"
+        link: "https://ziphytech.com.ng/gta-vice-city-psp"
     },
    
     // Add more games as needed...
