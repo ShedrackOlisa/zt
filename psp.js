@@ -1,54 +1,54 @@
 // Array of all available games (add as many games as needed)
 const allGames = [
     {
-        imgSrc: "https://ziphynet.com.ng/images/god-of-war-chain.webp",
+        imgSrc: "https://ziphytech.com.ng/images/god-of-war-chain.webp",
         title: "God Of War Chains Of Olympus PPSSPP ISO ZIP File Download Highly Compressed",
-        link: "https://ziphynet.com.ng/god-of-war-chain"
+        link: "https://ziphytech.com.ng/god-of-war-chain"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/god-of-war-ghost.webp",
+        imgSrc: "https://ziphytech.com.ng/images/god-of-war-ghost.webp",
         title: "God Of War Ghost Of Sparta PPSSPP ISO ZIP File Download Highly Compressed",
-        link: "https://ziphynet.com.ng/god-of-war-ghost"
+        link: "https://ziphytech.com.ng/god-of-war-ghost"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/naruto-storm-4.webp",
+        imgSrc: "https://ziphytech.com.ng/images/naruto-storm-4.webp",
         title: "Naruto Shippuden Ultimate Ninja Storm 4 PPSSPP ISO Zip File Download",
-        link: "https://ziphynet.com.ng/naruto-storm-4"
+        link: "https://ziphytech.com.ng/naruto-storm-4"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/resident-evil-4.webp",
+        imgSrc: "https://ziphytech.com.ng/images/resident-evil-4.webp",
         title: "Resident Evil 4 PPSSPP ISO Zip File Download",
-        link: "https://ziphynet.com.ng/resident-evil-4"
+        link: "https://ziphytech.com.ng/resident-evil-4"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/downhill-domination.webp",
+        imgSrc: "https://ziphytech.com.ng/images/downhill-domination.webp",
         title: "Downhill Domination PPSSPP ISO Zip File Download",
-        link: "https://ziphynet.com.ng/downhill-domination"
+        link: "https://ziphytech.com.ng/downhill-domination"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/jump-force.webp",
+        imgSrc: "https://ziphytech.com.ng/images/jump-force.webp",
         title: "Jump Force PPSSPP ISO Zip File Download Highly Compressed For Android",
-        link: "https://ziphynet.com.ng/jump-force"
+        link: "https://ziphytech.com.ng/jump-force"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/tekken-7.webp",
+        imgSrc: "https://ziphytech.com.ng/images/tekken-7.webp",
         title: "Tekken 7 PPSSPP ISO Zip File Download Highly Compressed For Android",
-        link: "https://ziphynet.com.ng/tekken-7"
+        link: "https://ziphytech.com.ng/tekken-7"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/wwe-2k24.webp",
+        imgSrc: "https://ziphytech.com.ng/images/wwe-2k24.webp",
         title: "WWE 2K24 PPSSPP ISO Zip File Download Highly Compressed For Android",
-        link: "https://ziphynet.com.ng/wwe-2k24"
+        link: "https://ziphytech.com.ng/wwe-2k24"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/wwe-2k23.webp",
+        imgSrc: "https://ziphytech.com.ng/images/wwe-2k23.webp",
         title: "WWE 2K23 PPSSPP ISO Zip File Download Highly Compressed For Android",
-        link: "https://ziphynet.com.ng/wwe-2k23"
+        link: "https://ziphytech.com.ng/wwe-2k23"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/mortal-kombat-9.webp",
+        imgSrc: "https://ziphytech.com.ng/images/mortal-kombat-9.webp",
         title: "Mortal Kombat 9 PPSSPP ISO Zip File Download",
-        link: "https://ziphynet.com.ng/mortal-kombat-9"
+        link: "https://ziphytech.com.ng/mortal-kombat-9"
     },
     
     // Add more games as needed...

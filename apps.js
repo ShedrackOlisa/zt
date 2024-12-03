@@ -1,14 +1,14 @@
 // Array of all available games (add as many games as needed)
 const allGames = [
     {
-        imgSrc: "https://ziphynet.com.ng/images/ppsspp-gold.webp",
+        imgSrc: "https://ziphytech.com.ng/images/ppsspp-gold.webp",
         title: "PPSSPP Gold APK Download For Android (Latest Version)",
-        link: "https://ziphynet.com.ng/ppsspp-gold"
+        link: "https://ziphytech.com.ng/ppsspp-gold"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/zarchiver.webp",
+        imgSrc: "https://ziphytech.com.ng/images/zarchiver.webp",
         title: "ZArchiver Pro APK Download For Android",
-        link: "https://ziphynet.com.ng/zarchiver"
+        link: "https://ziphytech.com.ng/zarchiver"
     },
    
     

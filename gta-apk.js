@@ -1,39 +1,39 @@
 // Array of all available games (add as many games as needed)
 const allGames = [
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-4.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-4.webp",
         title: "GTA 4 Apk Obb Data File Download For Android (GTA IV)",
-        link: "https://ziphynet.com.ng/gta-4"
+        link: "https://ziphytech.com.ng/gta-4"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-5.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-5.webp",
         title: "GTA 5 APK OBB Download For Android (GTA IV)",
-        link: "https://ziphynet.com.ng/gta-5"
+        link: "https://ziphytech.com.ng/gta-5"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-liberty-city.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-liberty-city.webp",
         title: "GTA Liberty City Stories Apk + Obb Download For Android",
-        link: "https://ziphynet.com.ng/gta-liberty-city"
+        link: "https://ziphytech.com.ng/gta-liberty-city"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-mzansi.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-mzansi.webp",
         title: "GTA Mzansi Apk Obb File Download For Android (No Password)",
-        link: "https://ziphynet.com.ng/gta-mzansi"
+        link: "https://ziphytech.com.ng/gta-mzansi"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-san-ram-gta-5.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-san-ram-gta-5.webp",
         title: "GTA SA Remastered Graphics for GTA 5 Apk Download For Android",
-        link: "https://ziphynet.com.ng/gta-san-ram-gta-5"
+        link: "https://ziphytech.com.ng/gta-san-ram-gta-5"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-san.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-san.webp",
         title: "GTA San Andreas APK OBB Download For Android (GTA SA)",
-        link: "https://ziphynet.com.ng/gta-san"
+        link: "https://ziphytech.com.ng/gta-san"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-vice-city.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-vice-city.webp",
         title: "GTA Vice City Stories Apk + Obb Download For Android",
-        link: "https://ziphynet.com.ng/gta-vice-city"
+        link: "https://ziphytech.com.ng/gta-vice-city"
     },
     
     // Add more games as needed...

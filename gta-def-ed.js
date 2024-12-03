@@ -1,19 +1,19 @@
 // Array of all available games (add as many games as needed)
 const allGames = [
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-san-andreas-definitive-edition.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-san-andreas-definitive-edition.webp",
         title: "GTA San Andreas Definitive Edition APK Download For Android",
-        link: "https://ziphynet.com.ng/gta-san-andreas-definitive-edition"
+        link: "https://ziphytech.com.ng/gta-san-andreas-definitive-edition"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-vice-city-definitive-edition.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-vice-city-definitive-edition.webp",
         title: "GTA Vice City Definitive Edition APK Download For Android",
-        link: "https://ziphynet.com.ng/gta-vice-city-definitive-edition"
+        link: "https://ziphytech.com.ng/gta-vice-city-definitive-edition"
     },
     {
-        imgSrc: "https://ziphynet.com.ng/images/gta-3-definitive-edition.webp",
+        imgSrc: "https://ziphytech.com.ng/images/gta-3-definitive-edition.webp",
         title: "GTA 3 Definitive Edition APK Download For Android",
-        link: "https://ziphynet.com.ng/gta-3-definitive-edition"
+        link: "https://ziphytech.com.ng/gta-3-definitive-edition"
     },
    
     
