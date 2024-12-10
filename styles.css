@@ -146,8 +146,9 @@ body {
   .article-container {
     display: flex;
     justify-content: space-between;
-    padding: 70px;
-  }
+    padding: 15px 150px 150px; /* Top: 5px, Left & Right: 150px, Bottom: 150px */
+    top: 0;
+}
   
   .article-container article {
     flex: 0.7;
@@ -205,6 +206,8 @@ body {
   .sidebar h3 {
     margin-bottom: 10px;
     color: #ff4757;
+    font-size: 20px;
+    text-align: center;
   }
   
   .sidebar ul {
@@ -216,6 +219,7 @@ body {
     margin-bottom: 15px;
     display: flex;
     align-items: center;
+    font-size: 12px;
   }
   
   .sidebar ul li img {
@@ -395,3 +399,6 @@ body {
           background-color: #ff6b81;
         }
         
+
+
+
